@@ -1,0 +1,19 @@
+{
+  "name": "9-js-ui-wdio-noti1602",
+  "version": "1.0.0",
+  "description": "Demo project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StartITProtractorJS/9-js-ui-wdio-Noti1602.git"
+  },
+  "author": "Nataliya Ignatova <bnoti1602@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StartITProtractorJS/9-js-ui-wdio-Noti1602/issues"
+  },
+  "homepage": "https://github.com/StartITProtractorJS/9-js-ui-wdio-Noti1602#readme"
+}
